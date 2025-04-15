@@ -2114,15 +2114,6 @@ ol {
 ========================================*/
 .hero-area {
   position: relative;
-<<<<<<< HEAD
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-color: #2ed06e;
-  z-index: 0;
-}
-
-=======
   background: url("../images/bkg.jpg");
   background-size: cover;
   background-position: center;
@@ -2150,8 +2141,7 @@ ol {
 }
 
 
->>>>>>> 6098aac (changed the required)
-.hero-area .hero-shape {
+>>>>>>>6098aac (changed the required) .hero-area .hero-shape {
   position: absolute;
   left: 0;
   bottom: -1px;
